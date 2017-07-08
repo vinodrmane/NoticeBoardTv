@@ -11,7 +11,6 @@ import android.view.WindowManager;
  * Created by Vinod on 6/29/2017.
  */
 public class SplashScreenActivityTv extends Activity {
-    String tool=null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
