@@ -37,7 +37,7 @@ public class SplashScreenActivityTv extends Activity {
                     } catch (InterruptedException e) {
                     }finally{
                         startActivity(new Intent(SplashScreenActivityTv.this, SplashScreenActivityTv.class));
-                        overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
+
                     }
                     finish();
                 }
